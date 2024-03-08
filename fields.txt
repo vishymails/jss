@@ -1,0 +1,189 @@
+qSOFA		
+Respiratory rate (RR) ≥ 22 breaths per minute,		
+Altered mentation (Glasgow Coma Scale [GCS] < 15)		
+Systolic blood pressure (SBP) < 100 mmHg.		
+		
+NEWS		
+Respiration rate <8, >25		
+Oxygen saturation <91		
+Systolic blood pressure <90		
+Pulse rate <40 >131		
+Level of consciousness or new confusion		
+Temperature <35 >39.1		
+		
+Present illness-Symptoms and signs specific to an infectious source- 		
+Fever	Y/N	
+Headache	Y/N	
+Altered sensorium	Y/N	
+Dyspnoea	Y/N	
+Chest pain	Y/N	
+Cough	Y/N	
+Productive sputum	Y/N	
+Vomiting	Y/N	
+Loose stools	Y/N	
+Pain abdomen	Y/N	
+Local swelling	Y/N	
+Wound/ulcer	Y/N	
+Dysuria	Y/N	
+Chills	Y/N	
+Urgency to micturate	Y/N	
+Others	Free text	
+		
+		
+History		
+Allergies	Y/N	
+Co-morbidities		
+Diabetes mellitus	Y/N	
+Hypertension	Y/N	
+Bronchial asthma	Y/N	
+COPD	Y/N	
+Tuberculosis	Y/N	
+Ischemic heart disease	Y/N	
+Chronic kidney disease	Y/N	
+Chronic liver disease	Y/N	
+Cancer	Y/N	
+Cerebrovascular accident	Y/N	
+Rheumatic heart disease	Y/N	
+Others	Free text	
+		
+Past history		
+Prior surgery	Y/N	
+Recent hospitalization for similar complaint	Y/N	
+Prolonged hospitalization	Y/N	
+Previous Intubations	Y/N	
+		
+Drug history- to be typed	Free text	
+Habits		
+Smoking	Y/N	
+Alcohol	Y/N	
+Recreational drugs	Y/N	
+		
+Initial assessment 		
+Airway Threatened Patent		
+		
+Breathing 		
+RESPIRATORY RATE	Positive whole number	0 - 60
+SpO2 94-98 %@RA	Positive whole number	0 - 100
+		
+Circulation		
+Peripheries  - warm, cold		
+Blood pressure recordable/ not recordable	ISSUE RADIO FOR NOT RECORDABLE - DISABLE BELOW FIELDS 	
+BP systolic in mm Hg	Positive whole number	40 - 280
+BP diastolic in mm Hg	Positive whole number	40 - 200
+		
+HR  60-90 bpm	Positive whole number	0 - 300 - / ADD  - NR AT TOP 
+CRT <2seconds	Y/N	
+		
+Disability		
+Sensorium (AVPU)	Letter	A, V, P, U
+GCS	Positive whole number	 3 - 15
+		
+Pupils 		
+		
+Right		
+Size	Positive whole number	 1 - 5
+Reactive	Y/N	
+		
+Left 		
+Size	Positive whole number	 1 - 5
+Reactive	Y/N	
+		
+Exposure 		
+local examination- to be typed	Free text	
+Temperature (in degrees Farenheit)	Rational Number to one decimal place	95.0 - 105.0 - / ADD  - NR AT TOP
+		
+ECG	Normal/abnormal	
+CBG (capillary blood glucose in mg/dl)	Positive whole number	0 - 500
+POCUS 		
+Lungs		
+Lung sliding right left (create in parallel) 	Y/N	
+Multiple B lines right left	Y/N	
+Ragged pleura right left	Y/N	
+Effusion right left	Y/N	
+Cardia 		
+Hyper dynamic	Y/N	
+RWMA	Y/N	
+Global hypokinesia	Y/N	
+EF 	Positive whole number	0 - 100
+IVC- >50% collapsibility	Y/N	
+		
+FAST		
+If fast field is positive then accept below values or disable it 		
+Subxiphoid (Pericardial free fluid Yes/No)	Y/N	
+Right upper quadrant (Hepatorenal pouch free fluid Yes/No)	Y/N	
+Left upper quadrant (Splenorenal free fluid Yes/No)	Y/N	
+Suprapubic (free fluid Yes/No)	Y/N	
+		
+ABG 		
+pH	Rational Number to two decimal places	6.5 to 7.60 
+pCO2	Positive whole number	0 - 130
+pO2	Positive whole number	0 - 500
+HCo3,24-28	Positive whole number	0 - 50
+Lactate 0.5-1.6	Rational Number to one decimal place	0.1 TO 30
+Base deficit, -2 to +2	Integer	-10 TO +5
+		
+Pain score- 0-3- mild, 3-7- moderate, >7- severe	Positive whole number	0 - 10
+		
+Systemic examination		
+		
+RS 		
+Decreased air entry- right left (SIDE BY SIDE )	Y/N	
+Rhonchi- right left	Y/N	
+Crepts- right left	Y/N	
+		
+PA 		
+Distention	Y/N	
+Tenderness	Y/N	
+Guarding	Y/N	
+Rigidity	Y/N	
+Bowel sounds	Y/N	
+		
+CNS		
+Neck rigidity	Y/N	
+		
+Investigations		
+Hb - 13-16.5 mg/dl	Rational Number to one decimal place	 1 - 20
+WBC count-  4000-1100 /cc m	Positive whole number	50 - 1.00.000
+Normal WBC count with greater than 10 percent immature forms.		0 -  15
+Platelets- 1.5 lakh- 3 lakh	Positive whole number	500- 5,00,000
+Hyperglycemia (plasma glucose >140 mg/dL) in the absence of diabetes.	Positive whole number	0 - 1000
+CRP- 0-5 mg/L	Positive whole number	0 - 300
+Sodium- 136-145 mEq/dL	Positive whole number	95 - 155
+Potassium- 3.5-5.1 mEq/dL	Rational Number to one decimal place	 1 - 9 
+Chloride- 98-107 mEq/dL	Positive whole number	90 - 110
+Urea- 12.6-42.6 mg/dL	Rational Number to one decimal place	10 - 350
+Creatinine- 0.7-1.3 mg/dL	Rational Number to one decimal place	0.5 - 20
+PT- 10.8-16.2 seconds	Rational Number to one decimal place	  8 - 50
+aPTT- 25-38 seconds	Rational Number to one decimal place	15 - 100
+INR- 0.9-1.1	Rational Number to one decimal place	 0.0 - 7
+Total Bilirubin- 0-1.2 mg/dL	Rational Number to one decimal place	 0 - 50
+Direct Bilirubin- 0-.0.2 mg/dL	Rational Number to one decimal place	 0 - 50
+Indirect Bilirubin- 0-1 mg/dL	Rational Number to one decimal place	 0 - 30
+SGOT- 0-40 U/L	Positive whole number	 0 - 5000
+SGPT- 0-41 u/L	Positive whole number	 0 - 5000
+ALP- 40-129 U/L	Positive whole number	 20 - 500
+Albumin- 3.5-5.3g/dL	Rational Number to one decimal place	 1 - 6
+TSH- 0.2-4.2 micro IU/mL	Rational Number to one decimal place	 0 - 100
+Procalcitonin- <0.05	Rational Number to one decimal place	 0 - 200
+Trop T- 0.01-0.02 ng/mL	Rational Number to two decimal place	 0 - 20
+CKMB- 0-4.94 ng/mL	Rational Number to two decimal place	 0 - 20
+Cultures isolate- to be typed	Free text	
+		
+ALL FIELDS ARE SUPPOSE TO SEPARATE TABS 		
+Imaging		
+CXR	Free text	
+Other relevant X ray	Free text	
+USG- abdomen and Pelvis	Free text	
+Any other relevant USG	Free text	
+Relevant CT	Free text	
+2D ECHO	Free text	
+Relevant MRI	Free text	
+		
+Treatment		
+Need for escalation of antibiotics	Y/N	
+Use of vasopressors	Y/N	
+Need for Mechanical ventilation	Y/N	
+Need for dialysis	Y/N	
+Procedural need for source control	Y/N	
+		
+PHYSICIAN DIAGNOSIS 		
